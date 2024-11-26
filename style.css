@@ -3,7 +3,7 @@ body{
     background-size: cover;
     background-position: center;
     background-color:white;
-    background-image: (to bottom darkgreen blue), url(./PICTURE/image2.jpg);
+    background-image: url(./TECHIMAGE.jpg);
     background-size: 100% 100% cover;
     background-position: center, center;
     height: 100vh;
